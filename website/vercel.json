@@ -1,0 +1,9 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/assets/:path*", "destination": "https://cdn.jsdelivr.net/gh/warriorbiswas-tech/margin-app@main/assets/:path*" }
+  ],
+  "headers": [
+    { "source": "/assets/(.*)", "headers": [{ "key": "Cache-Control", "value": "public, max-age=3600" }] }
+  ]
+}
