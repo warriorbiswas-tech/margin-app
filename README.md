@@ -38,6 +38,10 @@ curl -LO https://github.com/warriorbiswas-tech/margin-app/releases/latest/downlo
 
 For offline AI on either, open **Settings** and download the writing model once.
 
+## Sister app: Quirk Notes
+
+[Quirk Notes](https://github.com/warriorbiswas-tech/Quirk-notes) is made by the same developer for the same job: free handwritten notes, PDF markup and AI study tools, with no account and no subscription. It also runs in any web browser with nothing to install. [Try Quirk Notes](https://quirk-notes.vercel.app/).
+
 ## Questions
 
 **Is it free?** Yes. No account and no subscription.
